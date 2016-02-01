@@ -1,4 +1,9 @@
 GO FUCK YOURSELFF !
+<<<<<<< HEAD
 
 CONNARD!!
 2
+=======
+1
+CONNARD!!
+>>>>>>> 878adbb90a97b91d4cacf5c323ba149aed69b940
