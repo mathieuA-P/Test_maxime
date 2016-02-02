@@ -6,3 +6,4 @@ jtenmerde connar 1
 JAMMER 2 : 
 
 jécrit la partie 2
+jtenmerde connard 2 
