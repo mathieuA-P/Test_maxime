@@ -1,4 +1,12 @@
 SALUT VINCENT !!!!
+<<<<<<< HEAD
 Salut mathieu !
 
 C'est mon texte. VL
+=======
+
+JESPÈRE QUE SA VAS !!!!
+SA SERAIS COOL SI SOURCE TREE FONCTIONNE.!
+
+Salut mathieu !
+>>>>>>> 53365475767f5b6e78a8ea158104ce7a886b3cee
